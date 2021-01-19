@@ -32,4 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          Workflow files are the recipe for task automation. This is where actions are placed if I want to use them for a task.
+          echo 'Workflow files are the recipe for task automation. This is where actions are placed if I want to use them for a task.'
